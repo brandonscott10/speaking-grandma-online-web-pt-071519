@@ -1,8 +1,7 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(sentence)
-  if s
-  else 
-    puts "I LOVE YOU TOO PUMPKIN!"
+  if sentence
+  else  "I LOVE YOU TOO PUMPKIN!"
 end 
 end
 # Whatever you say to grandma, she should respond with
