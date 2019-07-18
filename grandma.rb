@@ -2,6 +2,7 @@
 def speak_to_grandma(sentence)
   if sentence
     return "I LOVE YOU TOO PUMPKIN!"
+    sentence == "I LOVE YOU GRANDMA"
 end 
 end
 # Whatever you say to grandma, she should respond with
