@@ -8,6 +8,7 @@ elsif sentence == "Hi!"
 return 'HUH?! SPEAK UP, SONNY!'
 elsif sentence == "WHAT DID YOU EAT TODAY?"
 return "NO, NOT SINCE 1938!"
+elsif sentence == ""
   
 end
   
