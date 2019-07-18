@@ -7,7 +7,7 @@ def speak_to_grandma(sentence)
 elsif sentence == "Hi!"
 return 'HUH?! SPEAK UP, SONNY!'
 elsif sentence == "WHAT DID YOU EAT TODAY?"
-return 
+return "NO, NOT SINCE 1938!"
   
 end
   
