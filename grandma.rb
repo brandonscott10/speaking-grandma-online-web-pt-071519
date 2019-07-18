@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma
-  if not in all caps then grandma can't hear you 
+  if ""
 else 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
