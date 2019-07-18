@@ -2,13 +2,15 @@
 def speak_to_grandma(sentence)
   if sentence == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
-    
-end 
+  elsif sentence == "Hi, Nana, how are you?"
+  return "HUH ?! SPEAK UP, SONNY!"
 end
+  
+  end 
+  end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
-
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
 
